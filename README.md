@@ -39,7 +39,7 @@
 - 8．9　移除死代码（Remove Dead Code） 237
 - 6．5　改变函数声明（Change Function Declaration） 124
 
-- 分组4 tianyi
+分组4 tianyi
 - 3．21　异曲同工的类（Alternative Classes with Different - Interfaces） 83
 - 12．4　函数下移（Push Down Method） 359
 - 6．6　封装变量（Encapsulate Variable） 132
@@ -52,7 +52,7 @@
 - 7．1　封装记录（Encapsulate Record） 162
 - 12．7　移除子类（Remove Subclass） 369
 
-- 分组5 wenwen
+分组5 wenwen
 - 10．2　合并条件表达式（Consolidate Conditional - Expression） 263
 - 11．1　将查询函数和修改函数分离（Separate Query from - Modifier） 306
 - 9．3　以查询取代派生变量（Replace Derived Variable with - Query） 248
@@ -64,7 +64,7 @@
 - 6．10　函数组合成变换（Combine Functions into Transform） - 149
 - 6．3　提炼变量（Extract Variable） 119
 
-- 分组6 xiaozhu
+分组6 xiaozhu
 - 9．5　将值对象改为引用对象（Change Value to Reference） 256
 - 3．6　可变数据（Mutable Data） 75
 - 6．2　内联函数（Inline Function） 115
@@ -76,7 +76,7 @@
 - 12．1　函数上移（Pull Up Method） 350
 - 7．7　隐藏委托关系（Hide Delegate） 189
 
-- 分组7 wangjing
+分组7 wangjing
 - 3．4　过长参数列表（Long Parameter List） 74
 - 11．2　函数参数化（Parameterize Function） 310
 - 4．4　再添加一个测试 93
@@ -88,7 +88,7 @@
 - 3．22　纯数据类（Data Class） 83
 - 9．2　字段改名（Rename Field） 244
 
-- 分组8 huihui
+分组8 huihui
 - 11．8　以工厂函数取代构造函数（Replace Constructor with - Factory Function） 334
 - 7．2　封装集合（Encapsulate Collection） 170
 - 8．1　搬移函数（Move Function） 198
@@ -100,7 +100,7 @@
 - 12．2　字段上移（Pull Up Field） 353
 - 5．2　挑选重构的依据 102
 
-- 分组9 chenxing
+分组9 chenxing
 - 3．9　依恋情结（Feature Envy） 77
 - 4．5　修改测试夹具 95
 - 6．1　提炼函数（Extract Function） 106
